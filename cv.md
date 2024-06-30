@@ -23,3 +23,6 @@
 ```
 ## Education
 - Kazan University KNITU-KAI
+## Languages 
+- Russian: native
+- English: B1
